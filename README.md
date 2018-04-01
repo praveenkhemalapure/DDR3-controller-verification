@@ -2,4 +2,5 @@
 DDR3 function verification environment in UVM
 
 1. DDR3_CONTROLLER_MASTER* are the env files. 
-2
+
+Complete environment will be uploaded soon. 
